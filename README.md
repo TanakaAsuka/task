@@ -17,4 +17,4 @@ npm run build
 
 you can write something task in it! enjoy🍺
 
-![demo](https://github.com/TanakaAsuka/task/imageDemo/demo.png)
+![demo](https://github.com/TanakaAsuka/task/blob/main/imageDemo/demo.png)
