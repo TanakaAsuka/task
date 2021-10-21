@@ -48,7 +48,7 @@ const handleClick = () => {
       state: false,
       btnText: "未完成",
     };
-    list.push(newTask);
+    list.unshift(newTask);
     myStorage.setItem("list", JSON.stringify(list));
 
     targetElement.target.value = "";
